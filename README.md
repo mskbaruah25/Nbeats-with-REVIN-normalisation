@@ -1,4 +1,8 @@
 # Nbeats-with-REVIN-normalisation
+
+final.ipynb contains all the code used for forecasting. Please have a look.
+
+If you want to use nbeats with revin normalisation please follow the instructions:
 To use nbeats with revin normalisation download the files nbeats_revin.py and nbeats_preprocessing.py. 
 With whatever data you want to use make sure to bring it into the following format:
 
